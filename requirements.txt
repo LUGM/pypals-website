@@ -1,2 +1,4 @@
 Flask-MongoKit
 pymongo==2.8
+requests==2.12.5
+gunicorn==19.6.0
